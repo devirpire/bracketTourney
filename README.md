@@ -1,6 +1,6 @@
 - Do create these tables in SQL for the code to work:
-- 
-   GTadmins with fields: "id (PRIMARY KEY), email, password" 
+
+  GTadmins with fields: "id (PRIMARY KEY), email, password" 
    
   GTusers with fields: "userID (PRIMARY KEY), un, email, level, password, banned"
   
